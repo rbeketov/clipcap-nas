@@ -1,3 +1,5 @@
 /datasets
 /embeds
 .DS_Store
+/remote_train/.env/
+/remote_train/wandb/
