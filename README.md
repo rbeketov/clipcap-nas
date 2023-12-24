@@ -1,7 +1,7 @@
 ### The research project of the "НАС" team
 
 
-<p class="p1">The research project of the <strong>"НАС" team</strong> (Neural Network Automated System) within the framework of the 'Neural Networks in Machine Learning' course at VK Education involves fine-tuning <strong>ClipCap</strong> using <em>GPT-2</em> tuning, <em>Llama-2</em> tuning, and <em> [self-supervised](https://arxiv.org/pdf/2306.15111.pdf) </em> methods.</p>
+<p class="p1">The research project of the <strong>"НАС" team</strong> (Neural Network Automated System) within the framework of the 'Neural Networks in Machine Learning' course at VK Education involves fine-tuning <strong>ClipCap</strong> using <em>GPT-2</em> tuning, <em>Llama-2</em> tuning, and <em> self-supervised </em> methods.</p>
 
 
 ### Architecture [ClipCap](https://arxiv.org/pdf/2111.09734.pdf)
@@ -10,10 +10,10 @@
 
 ### Using pretrained models:
 
-+ CLIP ViT-B-16-plus-240, "laion400m_e32"  [link](https://github.com/openai/CLIP)
-+ CLIP ruclip-vit-base-patch32-384  [link](https://github.com/ai-forever/ru-clip)
++ <strong>CLIP</strong> ViT-B-16-plus-240, "laion400m_e32"  [link](https://github.com/openai/CLIP)
++ <strong>CLIP</strong> ruclip-vit-base-patch32-384  [link](https://github.com/ai-forever/ru-clip)
 
-+ GPT sberbank-ai/rugpt3medium_based_on_gpt2 [link](https://github.com/ai-forever/ru-gpts)
++ <strong>GPT</strong> sberbank-ai/rugpt3medium_based_on_gpt2 [link](https://github.com/ai-forever/ru-gpts)
 
 
 ### Results
@@ -46,4 +46,9 @@
 + [Seimchenok Vladimir](https://github.com/VAVASTO)  |  Saiga-2 tuning
 
 + [Lebedeva Sofia](https://github.com/Sofi0Le)       |  Translation COCO2014 task
+
+### Links
+
+- [ClipCap] (https://arxiv.org/pdf/2111.09734.pdf)
+- [Self-supervised ClipCap](https://arxiv.org/pdf/2306.15111.pdf)
 
