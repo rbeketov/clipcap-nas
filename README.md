@@ -43,7 +43,7 @@
 
 + [Alexandr Eliseev](https://github.com/Sanchoues)     |  Self-supervised task
 
-+ [Seimchenok Vladimir](https://github.com/VAVASTO)  |  Saiga-2 tuning
++ [Semchenok Vladimir](https://github.com/VAVASTO)  |  Saiga-2 tuning
 
 + [Lebedeva Sofia](https://github.com/Sofi0Le)       |  Translation COCO2014 task
 
