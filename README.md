@@ -49,6 +49,6 @@
 
 ### Links
 
-- [ClipCap] (https://arxiv.org/pdf/2111.09734.pdf)
+- [ClipCap](https://arxiv.org/pdf/2111.09734.pdf)
 - [Self-supervised ClipCap](https://arxiv.org/pdf/2306.15111.pdf)
 
