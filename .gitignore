@@ -1,4 +1,4 @@
 /datasets
 /embeds
 .DS_Store
-weights
+/weights
